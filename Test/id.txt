@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 1234567890123
-git 
-
-dsfsdf
-=======
-1234567890123
->>>>>>> parent of a68e4e7 (Merge branch 'main' of https://github.com/Yash-ak-3322/Test)
